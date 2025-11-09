@@ -36,3 +36,7 @@ npm install --save-dev eslint typescript prettier husky lint-staged cspell commi
 ```
 npm install --save-dev @eslint/js typescript-eslint typescript svelte-eslint-parser eslint-plugin-svelte prettier-plugin-svelte @html-eslint/parser @html-eslint/eslint-plugin eslint-plugin-tailwindcss @pandacss/eslint-plugin eslint-plugin-drizzle @vitest/eslint-plugin eslint-plugin-perfectionist eslint-plugin-unicorn @stylistic/eslint-plugin eslint-plugin-functional eslint-config-prettier prettier-plugin-organize-imports eslint-plugin-security eslint-plugin-sonarjs eslint-plugin-tsdoc eslint-plugin-promise @cspell/eslint-plugin eslint-plugin-import eslint-plugin-import-alias eslint-plugin-eslint-plugin 
 ```
+
+## 👩‍💻 Author
+
+Made by [Marlena Makosza](https://marlenamakosza.com)
